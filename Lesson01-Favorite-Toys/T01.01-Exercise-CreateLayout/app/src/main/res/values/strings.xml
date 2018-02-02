@@ -15,4 +15,5 @@
   -->
 <resources>
     <string name="app_name">Project Setup</string>
+    <string name="greeting">Welcome to Udacity! \n Grow with Google</string>
 </resources>
